@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FARbucks</title>
+    
+    <link rel="stylesheet" href="../CSS/register.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <div class="container">
+            <nav>
+                <a href="../HTML/index.html"><img src="../IMAGES/nav-logo.png" id="logo-img"></a>
+            </nav>
+        </div>
+    </header>
+
+    <section id="register-section">
+        <div class="container">
+            <h1>Create an account</h1>
+            <div class="register-container">
+                <div class="box">
+                    <h3><span class="stars">*</span>indicates required field</h3>
+
+                    <form class="form" id="form">
+
+                        <h2>Personal Information</h2>
+
+                        <div class="form-layout">
+                            <label for="First Name" class="form-title">First Name</label>
+                            <input type="text" class="input" id="first-name" placeholder="First letter must be capital">
+                            <p>Error Message</p>
+                        </div>
+
+                        <div class="form-layout">
+                            <label for="Last Name" class="form-title">Last Name</label>
+                            <input type="text" class="input" id="last-name" placeholder="First letter must be capital">
+                            <p>Error Message</p>
+                        </div>
+
+                        <div class="form-layout">
+                            <label for="Phone Number" class="form-title">Phone Number</label>
+                            <input type="text" class="input" id="phone-number" placeholder="12 or 13 digit number only">
+                            <p>Error Message</p>
+                        </div>
+
+                        <h2>Account Security</h2>
+
+                        <div class="form-layout">
+                            <label for="Email" class="form-title">Email</label>
+                            <input type="text" class="input" id="email" placeholder="Use valid email address">
+                            <p>Error Message</p>
+                        </div>
+
+                        <div class="form-layout">
+                            <label for="password" class="form-title">Password</label>
+                            <input type="password" class="input" id="password" placeholder="8 to 25 characters long">
+                            <p>Error Message</p>
+                        </div>
+
+                        <div class="form-layout" id="terms-layout">
+                            <h2>TERMS OF USE</h2>
+                            <input type="checkbox" id="check-box">
+                            <label for="checkbox" id="terms-text">I agree to the FArbucks <span id="terms">Terms & Conditons</span>.</label>
+                            <p>Error Message</p>
+                        </div>
+
+                        <div class="create-layout">
+                            <button type="submit" class="create-button">
+                                <span id="create-span">Create account</span>
+                            </button>
+                        </div>
+                        
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer id="footer-section">
+        <div class="footer-top">
+            <h1>FArbucks</h1>
+            <ul class="socials">
+                <li><a href="https://www.instagram.com/rafikhairunizham/" class="ig"><img src="../IMAGES/instagram.png"></a></li>
+                <li><a href="https://www.instagram.com/marsya.idyn/" class="ig"><img src="../IMAGES/instagram.png"></a></li>
+            </ul>
+        </div>
+
+        <div class="footer-bottom">
+            <p class="watermark">© 2022 FArbucks</p>
+        </div> 
+    </footer>
+
+    <script src="../JS/register.js"></script>
+
+</body>
+
+</html>
