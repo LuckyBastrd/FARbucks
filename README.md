@@ -21,18 +21,25 @@ https://pin.it/2ceHovY
 <br>
 
 #### — bagian our store — <br>
-gambar 1 : https: //pin.it/2ceHovY<br>
-gambar 2 : https://pin.it/1jDxLyt<br>
-gambar 3 : https://pin.it/TwkmVjr<br>
-gambar 4 : https://pin.it/6M5iUjF<br>
-gambar 5 : https://pin.it/7auzLQW<br>
-gambar 6 : https://pin.it/6VcGS8A<br>
+gambar 1 : https: //pin.it/2ceHovY
+
+gambar 2 : https://pin.it/1jDxLyt
+
+gambar 3 : https://pin.it/TwkmVjr
+
+gambar 4 : https://pin.it/6M5iUjF
+
+gambar 5 : https://pin.it/7auzLQW
+
+gambar 6 : https://pin.it/6VcGS8A
+
 bagian background : https://pin.it/31CoIHU
 
 <br>
 
 #### — bagian about setelah di klik read more— <br>
 bagian foto cafe di history : https://pin.it/2ceHovY
+
 background bagian history : https://pin.it/76g72sw
 
 background bagian visi & misi : https://pin.it/197mRLX
